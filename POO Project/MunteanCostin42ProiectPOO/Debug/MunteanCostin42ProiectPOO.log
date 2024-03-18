@@ -1,0 +1,10 @@
+﻿  Cake.cpp
+  CakeMaker.cpp
+  CakeRecipe.cpp
+  Carousel.cpp
+  CommandPanel.cpp
+  CommandTaker.cpp
+  main.cpp
+  Generating Code...
+c:\users\alex_\onedrive\desktop\serbanlaurentiu62cakeproject\commandtaker.cpp(22): warning C4172: returning address of local variable or temporary: a
+  MunteanCostin42ProiectPOO.vcxproj -> C:\Users\alex_\source\repos\MunteanCostin42ProiectPOO\Debug\MunteanCostin42ProiectPOO.exe
